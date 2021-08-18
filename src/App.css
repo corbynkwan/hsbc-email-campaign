@@ -1,0 +1,106 @@
+.left-component {
+  float: left;
+  width: 75%;
+}
+.right-component {
+  float:right;
+  width: 25%;
+}
+.top-buffer { 
+  margin-top:30mm;
+  margin-left:-2cm
+
+}
+
+.inputError {
+  box-shadow: 4px 4px 20px rgba(200, 0, 0, 0.85);
+}
+.homepage {
+  display: flex;
+  flex-direction: row;
+}
+body{
+  margin:30px, 
+}
+.dynamic-value-key-container {
+  max-width:500px;
+}
+.button-spacing {
+    margin-right: 50px;
+}
+.my-container{
+border: 1px white;
+width: 100%;
+height: 100%;
+position: fixed;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+overflow: auto;
+text-align: 'center',
+
+}
+.pr-60 {
+  padding-right:60px; 
+}
+.form-group {
+  margin-bottom:0 !important;
+}
+.my-rows{
+  border: 1px solid white;
+}
+.my-row{
+  padding-left: 30px;
+}
+
+.my-row1{
+  padding-left: 30px;
+}
+.my-row10{
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+.my-row2{
+  padding-left: 30px;
+  padding-right: 60px;
+}
+.my-row3{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 500px;
+}
+.my-col{
+  border: 3px solid black;
+}
+.ellipsis {
+  text-overflow: ellipsis; 
+  white-space: nowrap;
+  overflow:hidden;
+  display:block
+}
+
+.scroll {
+    width: 1950px;
+}
+
+.vertical-horizontal-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+
+.horizontal-center {
+    display: flex;
+    justify-content: center;
+}
+
+.sort {
+    font-size: 20px;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+}

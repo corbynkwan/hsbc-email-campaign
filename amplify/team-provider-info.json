@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hsbcemailservice-dev-110934-authRole",
+      "UnauthRoleArn": "arn:aws:iam::584169184559:role/amplify-hsbcemailservice-dev-110934-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::584169184559:role/amplify-hsbcemailservice-dev-110934-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hsbcemailservice-dev-110934-deployment",
+      "UnauthRoleName": "amplify-hsbcemailservice-dev-110934-unauthRole",
+      "StackName": "amplify-hsbcemailservice-dev-110934",
+      "StackId": "arn:aws:cloudformation:us-east-1:584169184559:stack/amplify-hsbcemailservice-dev-110934/83d7fc60-708a-11eb-97d6-12936a84a87d",
+      "AmplifyAppId": "d3gwitonpxsdyn"
+    },
+    "categories": {
+      "auth": {
+        "hsbcemailservice7e484b9e": {}
+      }
+    }
+  }
+}
